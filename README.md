@@ -8,7 +8,7 @@ Each project has a corresponding report that describes its implementation. The p
 
 1. **Project E1**: BCD adder
 2. **Project E2**: Carry select adder
-3. 
+ 
 ## Getting Started
 
 1. Clone this repository to your local machine.
